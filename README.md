@@ -1,4 +1,4 @@
-# 🎓 Priyanshu Yadav - College Portfolio
+# 🎓 Priyanshu Kumar Yadav - College Portfolio
 
 Welcome to my college portfolio repository! This repository serves as a central hub for all my projects and academic work.
 
