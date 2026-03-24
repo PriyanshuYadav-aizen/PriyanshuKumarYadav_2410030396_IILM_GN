@@ -70,7 +70,7 @@ Welcome to my college portfolio repository! This repository serves as a central 
 
 ## 👤 About Me
 
-I am Priyanshu Yadav, a student at IILM (Indian Institute of Learning and Management) with Roll Number 2410030396. This portfolio demonstrates my academic projects and practical learning in software development, database management, and problem-solving.
+I am Priyanshu Yadav, a student at IILM University,Greater Noida with Roll Number 2410030396. This portfolio demonstrates my academic projects and practical learning in software development, database management, and problem-solving.
 
 ---
 
